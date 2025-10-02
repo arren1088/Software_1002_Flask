@@ -29,7 +29,7 @@ def show_user_version(version):
 def test():
     return '<html><body><h1>TEST</h1></body></html>'
 
-vars = 'Jian_vars'
+vars = 'EJC_vars'
 
 @app.route('/user/home')
 def home():
